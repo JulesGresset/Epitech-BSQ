@@ -1,4 +1,10 @@
 # Epitech-BSQ
+## Subject
+You must find the largest possible square on a board while avoiding obstacles.
+
+You program must print the board, with some “.” replaced by “x” to represent the largest square you found.
+
+If ever there are several solutions, you have to represent only the highest square. If they are still several solutions, choose the square to the left.
 ## Tests result
 ### Moulinette : 88,4%. 
 
@@ -8,14 +14,7 @@ Coverage : 92%
 
 Branches : 90%
 
-### Epitech students : be aware of the -42 !
-
-## Subject
-You must find the largest possible square on a board while avoiding obstacles.
-
-You program must print the board, with some “.” replaced by “x” to represent the largest square you found.
-
-If ever there are several solutions, you have to represent only the highest square. If they are still several solutions, choose the square to the left.
+### Epitech students : beware of the -42 !
 
 ## Usage
 ```
